@@ -1,2 +1,26 @@
-# Calculadora-de-Or-amento-Pessoal
-Desenvolver uma aplicação web simples que permita ao usuário registrar suas despesas e visualizar um resumo mensal. Esse foi meu primeiro projeto utilizando React, focado em aplicar conceitos fundamentais de front-end.
+# Olá, eu sou a Vanessa! 👋
+
+🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+💻 Apaixonado por desenvolvimento front-end e soluções práticas com tecnologia  
+🚀 Em constante evolução e aprendizado de novas ferramentas e linguagens  
+
+## 🧠 Tecnologias que estou aprendendo:
+
+- React
+- JavaScript (ES6+)
+- HTML5 & CSS3
+- Git & GitHub
+
+## 💼 Projetos em Destaque:
+
+- [💰 Calculadora de Orçamento Pessoal](https://github.com/seu-usuario/calculadora-orcamento)
+
+## 📫 Onde me encontrar:
+
+- [LinkedIn](https://www.linkedin.com/in/seu-linkedin)
+- Email: lopesva2@hotmail.com
+
+---
+
+🛠️ Estou sempre aberto a feedbacks e colaborações. Vamos crescer juntos!
+
