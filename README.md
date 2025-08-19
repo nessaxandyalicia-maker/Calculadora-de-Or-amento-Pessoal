@@ -9,7 +9,7 @@
 - React
 - JavaScript (ES6+)
 - HTML5 & CSS3
-- Git & GitHub
+
 
 ## 💼 Projetos em Destaque:
 
@@ -17,7 +17,7 @@
 
 ## 📫 Onde me encontrar:
 
-- [LinkedIn](https://www.linkedin.com/in/seu-linkedin)
+- [https://www.linkedin.com/in/vanessa-lopes-6b086437a/](https://www.linkedin.com/in/seu-linkedin)
 - Email: lopesva2@hotmail.com
 
 ---
